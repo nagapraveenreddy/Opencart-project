@@ -1,0 +1,20 @@
+12:11:08:036 [main] INFO  testCases.TC002_LoginTest - Validating the existence of My Account Page
+12:11:08:117 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+17:00:41:646 [main] INFO  testCases.TC002_LoginTest - *** Started TC002_LoginTest ***
+17:00:42:041 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount Link..
+17:00:43:061 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+17:00:43:085 [main] INFO  testCases.TC002_LoginTest - Providing credentials
+17:00:44:568 [main] INFO  testCases.TC002_LoginTest - Validating the existence of My Account Page
+17:00:46:178 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+17:13:37:518 [main] INFO  testCases.TC002_LoginTest - *** Started TC002_LoginTest ***
+17:13:37:698 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount Link..
+17:13:38:218 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+17:13:38:222 [main] INFO  testCases.TC002_LoginTest - Providing credentials
+17:13:39:653 [main] INFO  testCases.TC002_LoginTest - Validating the existence of My Account Page
+17:13:39:716 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+17:38:39:772 [main] INFO  testCases.TC002_LoginTest - *** Started TC002_LoginTest ***
+17:38:39:882 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount Link..
+17:38:40:250 [main] INFO  testCases.TC002_LoginTest - Clicked on Login Link
+17:38:40:253 [main] INFO  testCases.TC002_LoginTest - Providing credentials
+17:38:41:189 [main] INFO  testCases.TC002_LoginTest - Validating the existence of My Account Page
+17:38:41:235 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
